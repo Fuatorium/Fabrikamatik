@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="-1 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+    <title>industry</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+</defs>
+    <g id="Vivid.JS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Vivid-Icons" transform="translate(-200.000000, -409.000000)">
+            <g id="Icons" transform="translate(37.000000, 169.000000)">
+                <g id="industry" transform="translate(156.000000, 234.000000)">
+                    <g transform="translate(7.000000, 6.000000)" id="Shape">
+                        <polygon fill="#FF6E6E" points="34 19 34 36 0 36 0 14 4 14 4 8 12 0 12 14 17 14 17 19 24.326 19 26.714 7.2 30.357 7.2 32.745 19">
+</polygon>
+                        <path d="M27,34 L27,29 L32,29 L32,34 L27,34 Z M27,22 L32,22 L32,27 L27,27 L27,22 Z M19.188,6 C18.188,4.323 20.821,0.692 25.312,2.471 C26.4499449,3.13945258 27.6917788,3.61266092 28.986,3.871 L28.986,6 C27.292512,5.92481125 25.6291484,5.52560398 24.086,4.824 C22.3737944,4.07954646 20.3755591,4.55931876 19.188,6 Z M10,31 L15,31 L15,36 L10,36 L10,31 Z M10,24 L15,24 L15,29 L10,29 L10,24 Z M10,17 L15,17 L15,22 L10,22 L10,17 Z M4,8 L12,0 L12,3 L4,11 L4,8 Z M7,22 L2,22 L2,17 L7,17 L7,22 Z M7,29 L2,29 L2,24 L7,24 L7,29 Z M7,36 L2,36 L2,31 L7,31 L7,36 Z M24,27 L19,27 L19,22 L24,22 L24,27 Z M24,34 L19,34 L19,29 L24,29 L24,34 Z" fill="#0C0058">
+</path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
